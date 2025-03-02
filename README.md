@@ -1,5 +1,5 @@
 # sublime-text-settings
-```
+```json
 {
 	"ignored_packages":
 	[
